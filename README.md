@@ -1,16 +1,27 @@
-### Hi there 👋
+<!-- Intro -->
+<h1 align="center">naozumi-nao</h1>
+<h3 align="center">About Me :</h3>  
+ <p>
+   > Android Native Developer
+<br> > Loves going to the gym, drawing and talking to other people
 
-<!--
-**naozumi-nao/naozumi-nao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Socials --> 
+<h3 align="center">Let's Connect:</h3>  
+<div align="center">
+<a href="https://www.linkedin.com/in/bimaadityokurniawan" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
+</div>
 
-Here are some ideas to get you started:
+<!-- Tech Stack --> 
+<h3 align="Center">Languages and Tools:</h3>  
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="height: 4rem"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">You can never beat someone who's just having fun</h2>
+
+<div align="center">
+</div>

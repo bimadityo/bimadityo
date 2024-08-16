@@ -3,7 +3,7 @@
 <h3 align="center">About Me :</h3>  
  <p>
    > Fullstack Web Developer
-   > Android Native Developer
+<br> > Android Native Developer
 <br> > Loves going to the gym, drawing and talking to other people
 
 <!-- Socials --> 

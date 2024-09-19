@@ -1,6 +1,6 @@
 <!-- Intro -->
 <div align="left">
-<h1>naozumi-nao</h1>
+<h1>About Me:</h1>
 <p>A passionate electrical engineering graduate with a knack for coding.</p> 
 <p>Turns out, soldering isn't my forte, but crafting software sure is.</p>
 <p>Always eager to learn new languages and technologies</p>

@@ -3,7 +3,7 @@
 <p>A passionate electrical engineering graduate with a knack for coding.</p> 
 <p>Turns out, soldering isn't my forte, but crafting software sure is.</p>
 <p>Always eager to learn new languages and technologies</p>
-  
+<br>
 <h2>Tech Stack</h2>
 <h3>Native Android Development</h2>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="height: 4rem"/>

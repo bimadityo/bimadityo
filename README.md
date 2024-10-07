@@ -13,4 +13,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="height: 3rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="height: 3rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="height: 3rem"/>
+<br>
+<br>
+<a href="https://github.com/naozumi-nao">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naozumi-nao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naozumi-nao&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </div>
